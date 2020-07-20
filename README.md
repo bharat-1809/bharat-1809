@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on a few flutter projects.
 - 👯 I’m looking to collaborate on any flutter project 💙
 - 🤔 I’m looking for help with anything in which you have expertise.
-- 💬 Ask me about anything, but I may be slow to respond.
+- 💬 Ask me about anything.
 - 📫 How to reach me: bharat.sharma1809@gmail.com
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: The first oranges🍊 weren't orange.
