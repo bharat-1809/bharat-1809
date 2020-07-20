@@ -1,4 +1,4 @@
-### Bonjour 👋, I'm [Bharat](https://ayushagarwal.ml/)!
+### Bonjour 👋, I'm Bharat
 
 <a href="https://twitter.com/sifrant">
   <img align="left" alt="Bharat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
