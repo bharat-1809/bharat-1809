@@ -1,4 +1,4 @@
-### Bonjour 👋, I'm Bharat
+### Hello 👋, I'm Bharat
 
 <a href="https://twitter.com/_sifrant">
   <img align="left" alt="Bharat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
