@@ -16,7 +16,7 @@
 -->
 #### Talking about Personal Stuffs!
 
-<img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' align='right' width='400'>
+<img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' align='right'>
 
 - 🔭 I’m currently working on a few flutter projects.
 - 👯 I’m looking to collaborate on any flutter project 💙
