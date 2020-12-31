@@ -29,4 +29,4 @@
 </br>
 
 <br></br>
-![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharat-1809&show_icons=true&hide_border=true)
+![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharat-1809&show_icons=true&hide_border=true&count_private=true)
