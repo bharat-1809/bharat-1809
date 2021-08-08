@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/bharat-sharma-1809/">
   <img align="left" alt="Bharat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@bharat.sharma1809">
+<a href="https://bharatksharma.medium.com">
   <img align="left" alt="Bharat's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
