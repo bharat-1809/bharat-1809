@@ -14,7 +14,7 @@
 <!--- TODO Add followers when >50
 [![GitHub followers](https://img.shields.io/github/followers/bharat-1809.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bharat-1809?tab=followers)
 -->
-  <img src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' align='right'>
+  <img src='https://media.giphy.com/media/yAOjunY81Trjy/giphy.gif' align='right'>
 
 **Talking about Personal Stuffs!**
 
